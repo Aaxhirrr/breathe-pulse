@@ -1,0 +1,13 @@
+# Workspace version: 1.44.16
+databutton==0.38.34
+uvicorn[standard]==0.29.0
+fastapi==0.111.0
+ipykernel==6.29.5
+python-multipart==0.0.9
+openai
+beautifulsoup4
+requests
+opencv-python-headless
+mediapipe
+firebase-admin
+textblob
