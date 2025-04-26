@@ -4,3 +4,4 @@
 // Tune breathing break animation flow,
 // Fix session feedback logging bug,
 // Fix webcam permission edge case,
+// Fix session feedback logging bug,
