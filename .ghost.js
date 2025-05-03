@@ -18,3 +18,4 @@
 // Style profile page layout,
 // Fix session feedback logging bug,
 // Refactor Zustand store for memory,
+// Style profile page layout,
