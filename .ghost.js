@@ -16,3 +16,4 @@
 // Fix webcam permission edge case,
 // Fix session feedback logging bug,
 // Style profile page layout,
+// Fix session feedback logging bug,
