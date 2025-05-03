@@ -20,3 +20,4 @@
 // Refactor Zustand store for memory,
 // Style profile page layout,
 // Fix webcam permission edge case,
+// Style profile page layout,
