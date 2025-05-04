@@ -21,3 +21,4 @@
 // Style profile page layout,
 // Fix webcam permission edge case,
 // Style profile page layout,
+// Add placeholder for MYA memory component,
