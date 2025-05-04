@@ -19,3 +19,4 @@
 // Fix session feedback logging bug,
 // Refactor Zustand store for memory,
 // Style profile page layout,
+// Fix webcam permission edge case,
