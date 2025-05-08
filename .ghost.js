@@ -31,3 +31,4 @@
 // Fix webcam permission edge case,
 // Tune breathing break animation flow,
 // Tweak LLM prompt for coaching,
+// Refactor Zustand store for memory,
