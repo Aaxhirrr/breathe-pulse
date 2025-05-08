@@ -32,3 +32,4 @@
 // Tune breathing break animation flow,
 // Tweak LLM prompt for coaching,
 // Refactor Zustand store for memory,
+// Tune breathing break animation flow,
