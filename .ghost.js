@@ -36,3 +36,4 @@
 // Tweak LLM prompt for coaching,
 // Tune breathing break animation flow,
 // Improve posture prompt UI,
+// Fix session feedback logging bug,
