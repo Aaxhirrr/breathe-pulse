@@ -29,3 +29,4 @@
 // Update break suggestion modal,
 // Style profile page layout,
 // Fix webcam permission edge case,
+// Tune breathing break animation flow,
