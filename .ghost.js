@@ -38,3 +38,4 @@
 // Improve posture prompt UI,
 // Fix session feedback logging bug,
 // Add new mini-puzzle to break set
+// Refactor Zustand store for memory,
