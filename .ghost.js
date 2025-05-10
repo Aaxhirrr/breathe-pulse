@@ -42,3 +42,4 @@
 // Add placeholder for MYA memory component,
 // Improve posture prompt UI,
 // Fix webcam permission edge case,
+// Style profile page layout,
