@@ -43,3 +43,4 @@
 // Improve posture prompt UI,
 // Fix webcam permission edge case,
 // Style profile page layout,
+// Update break suggestion modal,
