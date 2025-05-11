@@ -41,3 +41,4 @@
 // Refactor Zustand store for memory,
 // Add placeholder for MYA memory component,
 // Improve posture prompt UI,
+// Fix webcam permission edge case,
