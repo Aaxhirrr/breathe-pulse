@@ -44,3 +44,4 @@
 // Fix webcam permission edge case,
 // Style profile page layout,
 // Update break suggestion modal,
+// Style profile page layout,
