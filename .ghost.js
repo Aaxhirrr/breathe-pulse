@@ -48,3 +48,4 @@
 // Add placeholder for MYA memory component,
 // Refactor Zustand store for memory,
 // Add new mini-puzzle to break set
+// Fix webcam permission edge case,
