@@ -50,3 +50,4 @@
 // Add new mini-puzzle to break set
 // Fix webcam permission edge case,
 // Tweak LLM prompt for coaching,
+// Style profile page layout,
