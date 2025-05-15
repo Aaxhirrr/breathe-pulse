@@ -53,3 +53,4 @@
 // Style profile page layout,
 // Add placeholder for MYA memory component,
 // Tweak LLM prompt for coaching,
+// Refactor Zustand store for memory,
