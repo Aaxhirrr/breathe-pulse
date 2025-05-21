@@ -60,3 +60,4 @@
 // Fix webcam permission edge case,
 // Refactor Zustand store for memory,
 // Update break suggestion modal,
+// Improve posture prompt UI,
