@@ -64,3 +64,4 @@
 // Add new mini-puzzle to break set
 // Improve posture prompt UI,
 // Tweak LLM prompt for coaching,
+// Fix session feedback logging bug,
