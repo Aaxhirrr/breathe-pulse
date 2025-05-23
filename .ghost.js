@@ -63,3 +63,4 @@
 // Improve posture prompt UI,
 // Add new mini-puzzle to break set
 // Improve posture prompt UI,
+// Tweak LLM prompt for coaching,
