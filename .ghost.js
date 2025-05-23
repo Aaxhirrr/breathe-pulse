@@ -65,3 +65,4 @@
 // Improve posture prompt UI,
 // Tweak LLM prompt for coaching,
 // Fix session feedback logging bug,
+// Fix webcam permission edge case,
