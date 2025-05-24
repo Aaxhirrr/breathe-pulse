@@ -66,3 +66,4 @@
 // Tweak LLM prompt for coaching,
 // Fix session feedback logging bug,
 // Fix webcam permission edge case,
+// Refactor Zustand store for memory,
