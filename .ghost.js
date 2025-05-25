@@ -68,3 +68,4 @@
 // Fix webcam permission edge case,
 // Refactor Zustand store for memory,
 // Tune breathing break animation flow,
+// Add new mini-puzzle to break set
