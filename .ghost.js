@@ -74,3 +74,4 @@
 // Add placeholder for MYA memory component,
 // Tune breathing break animation flow,
 // Improve posture prompt UI,
+// Refactor Zustand store for memory,
