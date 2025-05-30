@@ -79,3 +79,4 @@
 // Add new mini-puzzle to break set
 // Refactor Zustand store for memory,
 // Update break suggestion modal,
+// Tweak LLM prompt for coaching,
