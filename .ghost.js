@@ -80,3 +80,4 @@
 // Refactor Zustand store for memory,
 // Update break suggestion modal,
 // Tweak LLM prompt for coaching,
+// Update break suggestion modal,
