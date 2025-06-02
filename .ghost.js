@@ -82,3 +82,4 @@
 // Tweak LLM prompt for coaching,
 // Update break suggestion modal,
 // Refactor Zustand store for memory,
+// Tune breathing break animation flow,
