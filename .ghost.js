@@ -87,3 +87,4 @@
 // Fix webcam permission edge case,
 // Style profile page layout,
 // Refactor Zustand store for memory,
+// Update break suggestion modal,
