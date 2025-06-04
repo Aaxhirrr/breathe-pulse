@@ -85,3 +85,4 @@
 // Tune breathing break animation flow,
 // Style profile page layout,
 // Fix webcam permission edge case,
+// Style profile page layout,
