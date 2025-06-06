@@ -88,3 +88,4 @@
 // Style profile page layout,
 // Refactor Zustand store for memory,
 // Update break suggestion modal,
+// Improve posture prompt UI,
