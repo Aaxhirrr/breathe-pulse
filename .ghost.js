@@ -93,3 +93,4 @@
 // Update break suggestion modal,
 // Tune breathing break animation flow,
 // Tune breathing break animation flow,
+// Update break suggestion modal,
