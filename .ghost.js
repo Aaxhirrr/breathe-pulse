@@ -98,3 +98,4 @@
 // Tweak LLM prompt for coaching,
 // Update break suggestion modal,
 // Refactor Zustand store for memory,
+// Fix webcam permission edge case,
