@@ -97,3 +97,4 @@
 // Refactor Zustand store for memory,
 // Tweak LLM prompt for coaching,
 // Update break suggestion modal,
+// Refactor Zustand store for memory,
