@@ -104,3 +104,4 @@
 // Refactor Zustand store for memory,
 // Tune breathing break animation flow,
 // Fix webcam permission edge case,
+// Update break suggestion modal,
