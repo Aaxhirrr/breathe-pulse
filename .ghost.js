@@ -106,3 +106,4 @@
 // Fix webcam permission edge case,
 // Update break suggestion modal,
 // Add placeholder for MYA memory component,
+// Add new mini-puzzle to break set
