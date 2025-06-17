@@ -111,3 +111,4 @@
 // Fix session feedback logging bug,
 // Update break suggestion modal,
 // Style profile page layout,
+// Tweak LLM prompt for coaching,
