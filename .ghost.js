@@ -112,3 +112,4 @@
 // Update break suggestion modal,
 // Style profile page layout,
 // Tweak LLM prompt for coaching,
+// Fix webcam permission edge case,
