@@ -121,3 +121,4 @@
 // Tune breathing break animation flow,
 // Refactor Zustand store for memory,
 // Fix session feedback logging bug,
+// Improve posture prompt UI,
