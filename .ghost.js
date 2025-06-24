@@ -131,3 +131,4 @@
 // Tweak LLM prompt for coaching,
 // Add new mini-puzzle to break set
 // Update break suggestion modal,
+// Style profile page layout,
