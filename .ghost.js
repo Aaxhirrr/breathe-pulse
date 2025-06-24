@@ -129,3 +129,4 @@
 // Update break suggestion modal,
 // Tweak LLM prompt for coaching,
 // Tweak LLM prompt for coaching,
+// Add new mini-puzzle to break set
