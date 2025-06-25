@@ -134,3 +134,4 @@
 // Style profile page layout,
 // Add new mini-puzzle to break set
 // Tweak LLM prompt for coaching,
+// Tune breathing break animation flow,
