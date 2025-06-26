@@ -138,3 +138,4 @@
 // Update break suggestion modal,
 // Fix webcam permission edge case,
 // Fix webcam permission edge case,
+// Add new mini-puzzle to break set
