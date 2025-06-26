@@ -135,3 +135,4 @@
 // Add new mini-puzzle to break set
 // Tweak LLM prompt for coaching,
 // Tune breathing break animation flow,
+// Update break suggestion modal,
