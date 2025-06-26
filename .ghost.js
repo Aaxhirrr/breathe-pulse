@@ -137,3 +137,4 @@
 // Tune breathing break animation flow,
 // Update break suggestion modal,
 // Fix webcam permission edge case,
+// Fix webcam permission edge case,
