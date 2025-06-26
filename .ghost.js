@@ -136,3 +136,4 @@
 // Tweak LLM prompt for coaching,
 // Tune breathing break animation flow,
 // Update break suggestion modal,
+// Fix webcam permission edge case,
