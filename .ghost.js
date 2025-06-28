@@ -145,3 +145,4 @@
 // Fix session feedback logging bug,
 // Improve posture prompt UI,
 // Improve posture prompt UI,
+// Tweak LLM prompt for coaching,
