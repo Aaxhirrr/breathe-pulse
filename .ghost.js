@@ -143,3 +143,4 @@
 // Update break suggestion modal,
 // Refactor Zustand store for memory,
 // Fix session feedback logging bug,
+// Improve posture prompt UI,
