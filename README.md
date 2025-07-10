@@ -10,7 +10,7 @@ BreathePulse isn't just another break timer; it's your **intelligent wellness co
 
 Using cutting-edge computer vision (CV) directly in your browser, it monitors subtle cues for signs of fatigue or stress. When it senses you might need a moment, it proactively suggests a tailored microbreak – perhaps a calming breathing exercise 😮‍💨, a quick posture reset 🤸, or even a fun mini-puzzle 🧩 to refresh your focus. The more you interact, the smarter it gets, learning which breaks work best for *you*.
 
-**Our Goal:** To seamlessly integrate mindful moments into your workday, preventing burnout and enhancing focus, all with a **privacy-first, mindful, and minimalist approach.**
+**Our Goal:** To seamlessly integrate mindful moments into your workday, preventing burnout and enhancing focus, all with a **privacy-first, mindful, and minimalist approach !.**
 
 ---
 
